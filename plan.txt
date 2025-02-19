@@ -1,0 +1,11 @@
+- Design UI on Figma
+- Add URL to list
+- Once a day, extract prices from each item on list and record data in a file
+- Alert whenever price goes down, extra notification if it is lowest recorded price
+- Display Price Data in a line graph (up to one year)
+
+
+
+items.txt -> list of URLS
+prices.? -> data of prices
+scrape.py -> scrapes prices from URL (yesstyle)
